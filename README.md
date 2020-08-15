@@ -1,4 +1,4 @@
-# Seam-Carving. 
+# Seam-Carving
 
 Seam carving using dynamic programming.  
   
